@@ -17,14 +17,18 @@
    width: 2000px;
    font-size: 30px;
    text-align: center;
-   ">you can learn programming CSS 
-   HTML using w3school</div>
+   ">
+  <a href="https://www.w3schools.com/" target" -blank> you can learn programming CSS 
+    HTML using w3school 
+  </a>
+  
+</div>
 
 </body>
 </html>
 
 <style>
-.video-title{
+.sitetitle{
     font-family: Arial;
     font-size: 30px;
     font-weight: bold;
@@ -37,7 +41,7 @@
   padding: 10px;
 }
 </style>
-<p class="video-title"
+<p class="sitetitle"
 <p>Francis Miguel M. Jayme
   TLE-ICT  10 aguinaldo</p>
 
@@ -71,7 +75,7 @@
   </style>
   <p class="title"
 <p> this website is work in progress &#9786;<p>
-
+<p class="title"> this webpage is made using HTML and CSS</p>
 <style>
   .centered{
     font-family: Arial;
@@ -149,25 +153,24 @@ target="-blank">  my youtube channel</a>
 </style>
 
 <button class="HTML-codes-button">
-<a href="https://github.com/oumsim/miggy.github.io/tree/main/miggy.html/miggy.html" target="-blank">HTML-codes</a>
+<a href="https://github.com/oumsim/miggy.github.io/blob/main/miggy.html/codes%20for%20the%20website" target" -blank">HTML codes</a>
 </button>
 
-<p class="title">A, identify (5) differennt online storage where
+<p class="sitetitle">A, identify (5) differennt online storage where
  you can store and transfer files online
 </p>
 <p class="iloveyou">icloud</p>
-
-<p class="iloveyou">onedrive</p>
  
+<p class="iloveyou">onedrive</p>
+  
 <p class="iloveyou">box</p>
-"
 
 <p class="iloveyou">Google drive</p>
 
 <p class="iloveyou">Dropbox</p>
 
 
-<p class="title">B. Describe how to transfer the data and files online .Please be creative in creating BLOG</p>
+<p class="sitetitle">B. Describe how to transfer the data and files online .Please be creative in creating BLOG</p>
 
 <style>
     .concept{
@@ -208,6 +211,7 @@ target="-blank">  my youtube channel</a>
   <p class="title">Click to send</p>
 
 
+
 <style>
   .answerc {
     font font-family: arial;
@@ -221,7 +225,7 @@ target="-blank">  my youtube channel</a>
   }
 </style>
 
- <p class="answerc"> C Answer the following</p>
+ <p class="sitetitle"> C Answer the following</p>
 
     <p class="title">i. How do you transfer files from computer to thumb drive?
  </p>
@@ -314,6 +318,7 @@ want to select all files in a row</p>
 </p>
 
 
+
 <p class="oumsimbarabida">Or go to settings and top on
   'connections' A new window will come up toggle bluetoothto switch
   it on ensure to do this on both devices
@@ -328,7 +333,7 @@ appear under 'avialable devices'</thead>
 <p class="oumsimbarabida">Click to establish donnection a 'key' will be requested on both devices type
   in similar keys on both devices to successfully pair them
     For future connections with same device tap on the device name under 'paired devices'
-    you will receive a message asking for confirmation. click 'accept' and both deviceswill be paired
+    you will receive a message asking for confirmation. click 'accept' and both devices will be paired
 </p>
 
 <p class="test3">&#8226; share data from one android device to the another
@@ -338,3 +343,17 @@ share click on the menu button and tap on the "share icon" </class>
 <p class="test3"> the bluetooth interface will open up select the android device
   previously paired to your device
 </p>
+
+<p class="test3"> &#8226; A confirmation message will pop on the screen askingg gto accept or 
+decline the transfer. Tap "accept" to begin the process.
+</p>
+
+<p class="test3"> a progress bar at the top of the screen will indicate the status of the the transfer
+  it is advices to keep both decives as close as possible
+</p>
+
+<p class="centered">
+  <a href="https://www.youtube.com/watch?v=kZTF7wIykk4&t=6s" target="-blank">learn more concept of data transfer click me</a>
+  </p>
+
+
