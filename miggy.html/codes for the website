@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body></body>
+</html>
+ 
+<style>
+.video-title{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    width: 500px;
+    font-style: italic;
+    line height: 30px;
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+</style>
+<p class="video-title"
+<p>Francis Miguel M. Jayme
+  TLE-ICT  10 aguinaldo</p>
+
+
+<style>
+  .missnakita{
+      font-family: Arial;
+      font-size: 30px;
+      font-weight: bold;
+      width: 500px;
+      font-style: italic;
+      line height: 30px;
+      margin: auto;
+    width: 50%;
+    
+    padding: 10px;
+  }
+  </style>
+  <p class="missnakita"
+  <p>INFORMATION</p>
+
+<style>
+  .title{
+    font-family: arial;
+    front-size: 40px;
+    width: 200px;
+    font-weight: bold;
+    font-style: italic
+    
+  }
+  </style>
+  <p class="title"
+<p> this website is work in progress &#9786;<p>
+
+<style>
+  .centered{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    width: 500px;
+    font-style: italic;
+    line height: 30px;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  }
+</style>
+
+<style>
+  .concept1{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    line height: 30px;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  }
+</style>
+
+<style>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width="150px"
+}
+</style>
+
+
+<p class="missnakita"> recommended to use a computer <p>
+<p class="title">-follow my socials-<p>
+
+
+<p class=centered>
+  <a class=centered href="https://www.youtube.com/channel/UCWbSno69et_p9EmnoHmOpOg"
+target="-blank">  my youtube channel</a>
+</p>
+
+<p class="centered">
+<a href="https://www.facebook.com/miggyyych" target="-blank">my facebook page</a>
+</p>
+
+<style>
+  
+  .HTML-codes-button {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(41, 7, 233) ;
+    color: rgb(11, 68, 224);
+    border-style: solid;
+    border-width: 2px;
+    height: 40px;
+    width: 150px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 8px;
+    transition: opacity 0.15;
+  }
+
+  .HTML-codes-button:hover{
+    background-color: rgb(125, 223, 253);
+    opacity: 0.8
+  }
+
+  .HTML-codes-button:active {
+    opacity: 0.5
+  }
+</style>
+
+<button class="HTML-codes-button">
+<a href="https://github.com/oumsim/miggy.github.io/tree/main/miggy.html/miggy.html" target="-blank">HTML-codes</a>
+</button>
+
+<p class="title">A, identify (5) differennt online storage where
+ you can store and transfer files online
+</p>
+<p class="iloveyou">icloud</p>
+
+<p class="iloveyou">onedrive</p>
+
+<p class="iloveyou">box</p>
+
+<p class="iloveyou">Google drive</p>
+
+<p class="iloveyou">Dropbox</p>
+
+
+<p class="title">B. Describe how to transfer the data and files online .Please be creative in creating BLOG</p>
+
+<style>
+    .concept{
+        font-family: Arial;
+        font-size: 30px;
+       font-weight: bold;
+       margin: auto;
+  width: 50%;
+  padding: 10px;
+    }
+  </style>
+
+<style>
+    .title{
+      font-family: arial;
+      front-size: 40px;
+      width: 400px;
+      font-weight: bold;
+      font-style: italic;
+      margin: auto;
+  width: 50%;
+  padding: 10px;
+    }
+    </style>
+    <p class="title"
+  <p> Uploading files to cloud storage is a great way to transfer large 
+    files such as photos and video papular cloud service providers like google drive, 
+    files.com offer mountains of online storage each of 
+    these product is accessible with more than enough space to cover most file types;<p>
+    
+       <p class="iloveyou">STEP 1</class>
+        <p class="title">select the file or the folder you need to transfer online</p>
+  <p class="iloveyou">STEP 2</iloveyou>
+  <p class="title">Enter the email of reciever</p>
+  <p class="iloveyou">STEP 3</p>
+  <p class="title">Leave a title and message</p>
+  <p class="iloveyou">STEP 4</button>
+  <p class="title">Click to send</p>
+
+ 
+
+<style>
+  .answerc {
+    font font-family: arial;
+    font-size: 40px;
+    width: 100px;
+    font weight: bold;
+    font style:italic;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  }
+</style>
+
+ <p class="answerc"> C Answer the following</p>
+
+    <p class="title">i. How do you transfer files from computer to thumb drive?
+ </p>
+
+<style>
+  .iloveyou{
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+  }
+</style>
+
+
+ <p class="iloveyou">Step 1</p>
+
+ <p class="title">open windows explorer and navigate to 
+  the location from where you want to copy the files
+ </thead></p>
+
+<p class="iloveyou"> Step 2</p>
+<p class="title"> Using the left-click, select the files you want
+  to copy you can also use CTRL+ left-click to select files if you dont
+want to select all files in a row</p>
+
+
+<p class="iloveyou">Step 3</p>
+<p class="title"> Once done right click and select copy from the options next
+ go to the flash drive visible in windows explorer 
+</p>
+
+<p class="iloveyou">step 4</p>
+<p class="title">Double click on the flash drive to open it 
+  then right click on any empty area and choose paste it will copy all the files to the flash
+  drive
+</p>
+
+<p class="concept">ii. how do you transfer from cellphone
+  to laptop?  
+</p>
+
+<style>
+  .transferdata{
+    font-family:Verdana sans-serif;
+    color: rgb(11, 68, 224);
+   font-size: 20px;
+   width: 600px;
+   margin: auto;
+  width: 50%;
+  padding: 10px;
+  }
+  
+</style>
+<p class="transferdata">With a USB connenct your phone to your computer
+  onn your phonne tab the 'Charging this device via usb' notifications
+  under the 'use USB for' select the file transfer. A file transfer
+  window will openn on your computer
+</p>
+
+<p class="concept">How do you transfer from mobile phone to mobile phone?</p>
+
+<style>
+  .test3{
+    font-family: verdana sans-sarif;
+    font-size:20px;
+    width :300px;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  }
+</style>
+
+<p class="test3">Using bluetooth for data transfer is not too difficult in this
+  article we have broken down each process just adhere to the steps outline below
+</p>
+
+<style>
+  .oumsimbarabida{
+    font-family: bold;
+    font-size: 30px;
+    width: 700px;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  }
+  </style>
+<p class="oumsimbarabida"> &#8226; First locate the bluetooth
+  function on your devices by either pulling down the meni
+  from the top of your phone screen. you will use the bluetooth icon. click on it to turn 
+  the bluetooth device on.
+</p>
+
+
+<p class="oumsimbarabida">Or go to settings and top on
+  'connections' A new window will come up toggle bluetoothto switch
+  it on ensure to do this on both devices
+</p>
+
+<p class="test3">&#8226; make sure both your devicesare visable to other 
+decices to create connection one android device has to search for
+the other device bluetooth signal when it does the name of the device will
+appear under 'avialable devices'</thead>
+</p>  
+
+<p class="oumsimbarabida">Click to establish donnection a 'key' will be requested on both devices type
+  in similar keys on both devices to successfully pair them 200
+    For future connections with same device tap on the device name under 'paired devices'
+    you will receive a message asking for confirmation. click 'accept' and both deviceswill be paired
+</p>
