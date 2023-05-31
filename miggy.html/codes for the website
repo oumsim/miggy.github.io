@@ -1,9 +1,28 @@
 <!DOCTYPE html>
 <html>
-  <head></head>
-  <body></body>
+  <head>
+<title?> TLE-ICT from grade 10 student francis miguel m. jayme</title>
+</head>
+<body style="
+  height: 3000px"
+  >
+  <div style="
+   background-color:rgb(16, 117, 233);
+   color: white;
+   positiom: fixed;
+   top:0;
+   bottom: 300px;
+   left: 0;
+   right: 0;
+   width: 2000px;
+   font-size: 30px;
+   text-align: center;
+   ">you can learn programming CSS 
+   HTML using w3school</div>
+
+</body>
 </html>
- 
+
 <style>
 .video-title{
     font-family: Arial;
@@ -139,8 +158,9 @@ target="-blank">  my youtube channel</a>
 <p class="iloveyou">icloud</p>
 
 <p class="iloveyou">onedrive</p>
-
+ 
 <p class="iloveyou">box</p>
+"
 
 <p class="iloveyou">Google drive</p>
 
@@ -187,7 +207,6 @@ target="-blank">  my youtube channel</a>
   <p class="iloveyou">STEP 4</button>
   <p class="title">Click to send</p>
 
- 
 
 <style>
   .answerc {
@@ -307,7 +326,15 @@ appear under 'avialable devices'</thead>
 </p>  
 
 <p class="oumsimbarabida">Click to establish donnection a 'key' will be requested on both devices type
-  in similar keys on both devices to successfully pair them 200
+  in similar keys on both devices to successfully pair them
     For future connections with same device tap on the device name under 'paired devices'
     you will receive a message asking for confirmation. click 'accept' and both deviceswill be paired
+</p>
+
+<p class="test3">&#8226; share data from one android device to the another
+  open the file manager app and go to the folders and select the data you want to
+share click on the menu button and tap on the "share icon" </class>
+
+<p class="test3"> the bluetooth interface will open up select the android device
+  previously paired to your device
 </p>
